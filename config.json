@@ -2,5 +2,58 @@
     "token": "process.env.TOKEN",
     "prefix": "$",
     "status": "Vinted Bot",
-    "suburl": {}
+    "suburl": {
+        "https://discord.com/api/webhooks/954823295692324884/9tLhWgRu06fg8Qw7n0f6OwTa0G9Mr7nfO9XjdPdPgMehoeXVogkNFy1XJh9sU-3lN3_O": {
+            "url": "https://www.vinted.fr/vetements?order=price_low_to_high&currency=EUR&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&price_from=10",
+            "salon": "\ud83d\udc55\u2503random"
+        },
+        "https://discord.com/api/webhooks/954823547736457256/h1BpouO5RMFqzbxYKfz8q9Cr4KfMar4DOl3ChymwzBfje7qYE_5HkkiVIRUdaTCGjKlc": {
+            "url": "https://www.vinted.fr/vetements?order=price_low_to_high&currency=EUR&brand_id[]=53&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&price_from=10",
+            "salon": "\ud83d\udc55\u2503nike"
+        },
+        "https://discord.com/api/webhooks/954823717496684545/s7rV3R567yv43IgqmuevG20cpzZmUTa27ScmduO7vfGKnCB53H9WDfgFd0AJtWYhuNoM": {
+            "url": "https://www.vinted.fr/vetements?order=price_low_to_high&currency=EUR&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&price_from=10&brand_id[]=14",
+            "salon": "\ud83d\udc55\u2503adidas"
+        },
+        "https://discord.com/api/webhooks/954823872811774022/RRwc9gZ-Up7f1LsEKOh3T5Nhoa5DbRUUsWzCxMYa4zsb9ivBAM8PfZGr03AdsbBSpvIn": {
+            "url": "https://www.vinted.fr/vetements?order=price_low_to_high&currency=EUR&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&price_from=10&brand_id[]=304",
+            "salon": "\ud83d\udc55\u2503lacoste"
+        },
+        "https://discord.com/api/webhooks/954824016026304592/esUhJSFvgDTqoXyTx8YjKzo01YN4C5kXtuYxDiO9layEvYY-O_iwjuuL5c8FiSya00Mo": {
+            "url": "https://www.vinted.fr/vetements?order=price_low_to_high&currency=EUR&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&price_from=10&brand_id[]=88",
+            "salon": "\ud83d\udc55\u2503ralph-lauren"
+        },
+        "https://discord.com/api/webhooks/954824419862274138/OAB5D-IMn5bZLnuzYlandTi_iyVzfk0yanvivU35OckCvM7zX3D01v7TyCiZXnocDUAC": {
+            "url": "https://www.vinted.fr/vetements?order=newest_first&currency=EUR&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&price_from=10&brand_id[]=53",
+            "salon": "\ud83d\udc55\u2503nike"
+        },
+        "https://discord.com/api/webhooks/954824640184860762/tfWOfFhTMki89Q-kNJ8x_P1LXop5Z0ZR-QsVpDGjZ67a_at-xB1phcVjF5DoboQzpUTX": {
+            "url": "https://www.vinted.fr/vetements?order=newest_first&currency=EUR&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&price_from=10",
+            "salon": "\ud83d\udc55\u2503random"
+        },
+        "https://discord.com/api/webhooks/954824762612408320/BFVKsLksbBOuAwtEOOPW8_sc7Rtx2yJnvS9RsSeTH9tpI3NnAMPKkYBWUT1-sD3HV4pP": {
+            "url": "https://www.vinted.fr/vetements?order=newest_first&currency=EUR&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&price_from=10&brand_id[]=14",
+            "salon": "\ud83d\udc55\u2503adidas"
+        },
+        "https://discord.com/api/webhooks/954825020893462568/YuPet4ZdSP1vnKn4cwbrEBtetPfM4uXlva0Pd8whrZu6XTWHXdzRHtTPKvAghArBaCpK": {
+            "url": "https://www.vinted.fr/vetements?order=newest_first&currency=EUR&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&price_from=10&brand_id[]=304",
+            "salon": "\ud83d\udc55\u2503lacoste"
+        },
+        "https://discord.com/api/webhooks/954825161947906058/V4SkY1D40BQVp3B9gmOWE7GXw-r-Y5iyB73YyUzNytV_841KiJdjtJ-cA1QgDUTk4CRg": {
+            "url": "https://www.vinted.fr/vetements?order=newest_first&currency=EUR&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&price_from=10&brand_id[]=88",
+            "salon": "\ud83d\udc55\u2503ralph-lauren"
+        },
+        "https://discord.com/api/webhooks/954825379489665044/2eNHeJ9ysHucC9Er0FpiRuuanQ0mX89l7SJPHE9dm4FDAtI9d32MJS5GJQN1jgeRYLEY": {
+            "url": "https://www.vinted.fr/vetements?order=newest_first&currency=EUR&price_from=10&catalog[]=1231&brand_id[]=53",
+            "salon": "\ud83d\udc5f\u2503nike"
+        },
+        "https://discord.com/api/webhooks/954825582670151800/cFsITKemCg4dRSSphgxg_q43lhidcgNQ7TZW5z7Q4vhfSpevc7jn4cYY81VEX-USPjG4": {
+            "url": "https://www.vinted.fr/vetements?order=newest_first&currency=EUR&price_from=50&catalog[]=1231&brand_id[]=14",
+            "salon": "\ud83d\udc5f\u2503adidas"
+        },
+        "https://discord.com/api/webhooks/954825737825845278/nO39hWO13s-TlMOADp1t31oZEKiuJHX1g0ZVn8eJz-HTxTEc985KUDY6KdpJ44gHJpTU": {
+            "url": "https://www.vinted.fr/vetements?order=newest_first&currency=EUR&price_from=50&catalog[]=1231&brand_id[]=304",
+            "salon": "\ud83d\udc5f\u2503lacoste"
+        }
+    }
 }
