@@ -1,1 +1,1 @@
-worker : node vinted.py
+worker : py vinted.py
